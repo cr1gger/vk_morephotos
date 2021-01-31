@@ -1,0 +1,2 @@
+php demon.php
+@pause
